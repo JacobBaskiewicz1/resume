@@ -1,0 +1,19 @@
+h1 {
+    text-align:center;
+    padding: 20px;
+}
+
+body{
+    font-family: "Verdana", "Arial";
+}
+
+.email{
+    text-align:center;
+    color:gray;
+    font-size:14px;
+}
+
+.bodytype{
+    text-align:center;
+    padding:20px;
+}
